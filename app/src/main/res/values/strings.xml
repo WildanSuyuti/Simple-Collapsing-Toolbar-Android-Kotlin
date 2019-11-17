@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IDCampKADE</string>
+    <string name="str_about">Semacam halaman About</string>
+    <string name="search">search</string>
+</resources>
